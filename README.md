@@ -5,7 +5,7 @@ Welcome to the Java Library! This is a collection of Java Code like Algorithms a
 This repository contains a variety of Java Algorithms and Programs and more.
 
 ## Language of code:
-The code inside this repository is written using the language Java which is a specific coding language that needs to be compiled befor running. That means the code will only work in a JDE but you may adapt the code to other languages if your are planning to use another coding language.
+The code inside this repository is written using the language Java which is a specific coding language that needs to be compiled before running. That means the code will only work in a JDE but you may adapt the code to other languages if your are planning to use another coding language.
 
 ## License
 All content in this repository is licensed under the Creative Commons Attribution-ShareAlike (CC-BY-SA) License. This means you are free to:
